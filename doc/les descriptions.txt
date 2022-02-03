@@ -1,0 +1,155 @@
+Sacs:
+1.Sac à main rouge croco verni avec fermeture à rabat
+DS:Sac à main fermeture à rabat avec anse rigide effet croco en simili cuir.
+Présence d'une bandoulière amovible.
+L'intérieur est muni d'une pochette centrale. 
+
+2.Sac froncé vert clair avec chaîne à maillons oversize
+DS:Sac style pochette XXL en simili cuir froncé.
+Chaîne à maillons oversize pour porté main.
+Anse en simili cuir amovible et ajustable pour le porté épaule.
+Ouverture clip sur le dessus.
+Intérieur en tissu. 
+
+3.Sac en bandoulière vert clair avec fermeture à rabat
+DS:Sac bandoulière en similicuir.
+Rabat avec fermoir cercle doré. 
+Intérieur avec une pochette à zip et 2 compartiments.
+Présence d'une bandoulière à chaîne.
+
+4.Sac à main trapèze jaune
+DS:Sac à main forme trapèze en simili.
+Nœud décoratif sur la anse.
+Bandoulière réglable et amovible.
+Intérieur avec 2 compartiments zippés et 3 poches plaquées.
+Poche zippée à l'arrière du sac.
+Fermeture extérieure par rabat à fermoir tournant.
+
+5.Sac à main trapèze rouge
+Sac à main forme trapèze en simili.
+DS:Nœud décoratif sur la anse.
+Bandoulière réglable et amovible.
+Intérieur avec 2 compartiments zippés et 3 poches plaquées.
+Poche zippée à l'arrière du sac.
+Fermeture extérieure par rabat à fermoir tournant.
+
+6.Panier rond en osier marron
+DS:Sac à main rond en osier.
+Présence d'un foulard amovible et d'une bandoulière.
+Les motifs et la couleur des foulards sont aléatoires.
+
+7.Sac à main blanc à anses rigides effet croco
+DS:Sac à main en simili cuir rigide effet croco à anses.
+Fermeture principale zippée. 
+A l'intérieur, 2 compartiments séparés par une poche zippée.
+Doté d'une bandoulière amovible.
+
+8.Sac bandoulière noir et blanc à poche zippée en simili cuir
+DS:Sac bandoulière en simili cuir texturé.
+Doté de poches zippées à l'avant et à l'arrière.
+Intérieur avec une pochette zippé plaquée.
+
+Robes:
+1.Robe blanche à volants et à noeud dans le dos
+DS:Robe patineuse sans manches à motifs carreaux. 
+Possède des empiècements crochets et des fronces sur le buste
+Modèle volanté sur les épaules et sur la bas de la robe. 
+Se ferme à l'aide d'un noeud au dos.
+Présence d'une doublure. 
+
+2.Robe beige ceinturée à volant
+DS:Robe fluide à bretelles réglables. 
+Modèle col V avec petits boutons décoratifs. 
+Présence d'un volant en bas de la robe. 
+Dotée d'une ceinture à nouer. 
+Dos smocké. 
+
+3.Robe longue noire à bretelles et imprimé fleuri
+DS:Robe longue à motif fleuri. 
+
+Dotée d'un lien de serrage en-dessous de la poitrine.
+Col cache-coeur.
+Smockée à l'arrière.
+Bretelles fines et ajustables. 
+ 
+4.Robe longue noire à bretelles et motif tropical
+Robe longue à imprimé tropical. 
+DS:Dotée d'un lien de serrage en-dessous de la poitrine.
+Col cache-coeur.
+Smockée à l'arrière.
+Bretelles fines et ajustables. 
+
+5.Robe rouge à fleurs exotiques et col cache coeur
+DS:Robe courte à motifs fleurs et feuilles exotiques.
+Dotée d'un lien de serrage en-dessous de la poitrine.
+Col cache-coeur.
+Smockée à l'arrière.
+Bretelles fines et ajustables. 
+
+6.Robe noire col bardot en crochet
+DS:Robe longue en crochet et col bardot.
+Dotée d'un lien tressé avec pampilles à nouer au niveau du col.
+Présence d'une doublure.
+
+7.Robe verte à fleurs exotiques et col cache coeur
+DS:Robe courte à motifs fleurs et feuilles exotiques.
+Dotée d'un lien de serrage en-dessous de la poitrine.
+Col cache-coeur.
+Smockée à l'arrière.
+Bretelles fines et ajustables. 
+
+8.Robe longue rouge et noir à motif fleuri et bretelles
+DS:Robe longue à motifs fleurs et feuilles avec détails dorés.
+Dotée d'un lien de serrage en-dessous de la poitrine.
+Col cache-coeur.
+Smockée à l'arrière.
+Bretelles fines et ajustables. 
+
+Vestes:
+1.Perfecto beige en simili cuir
+DS:Veste perfecto en simili cuir à col revers. 
+Épaules matelassées et fermeture à glissière sur le devant. 
+Présence de 2 poches à zips. 
+Doublure satinée. 
+
+2.Bomber fluide rose à fleurs "aquarelles"
+DS:Bomber fluide à imprimé fleurs peintes.  
+Col, base et poignets en maille côtelée.  
+Fermeture par zip.  
+Matière légère.
+
+3.Blazer croisé parme en tweed motif pied de poule
+DS:Veste blazer croisée en tweed motif pied de poule.
+Deux poches décoratives et col à revers.
+Fermeture à boutons.
+
+4.Trench mi-long noir
+DS:Trench mi-long à manches longues.
+Ceinture à nouer à la taille avec passants.
+Se ferme à l'aide de boutons.
+Doté de deux poches latérales.
+Doublure intérieure satinée.
+
+5.Perfecto écru en simili cuir
+DS:Veste perfecto en simili cuir à col revers. 
+Épaules matelassées et fermeture à glissière sur le devant. 
+Présence de 2 poches à zips. 
+Doublure satinée. 
+
+6.Veste bleu clair sans manches à carreaux en tweed
+DS:Veste sans manches à carreaux en tweed.
+Modèle à col revers. 
+Possède une ceinture à nouer à la taille avec passants.
+Présence de deux poches latérales. 
+
+7.Veste bleu clair courte en tweed motif pied de poule
+DS:Veste courte style blazer en tweed motif pied de poule.
+Deux poches décoratives et col à revers.
+Fermeture à boutons.
+
+8.Veste fluide noire avec ceinture
+DS:Veste fluide avec ceinture à clipser.
+Modèle mi-long avec col revers et manche longue droite. 
+Dotée d'épaulettes en mousse et de passants pour ceinture. 
+Boutonnage sur le devant. 
+ 
